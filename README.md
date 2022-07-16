@@ -34,6 +34,9 @@ Apply machine learning tecniques to identify high and low credit risk. Need to e
 
 ![image](https://github.com/cmmoreno9/Credit_Risk_Analysis/blob/3dc7fa3506d0d346aac8c1f11285635d0cfbf63b/screenshots/Screen%20Shot%202022-07-15%20at%207.11.23%20PM.png)
 
+## Ensemble Classifiers
+
+
 # Summary 
 
 Overall, it is clear to see that the precision between all four samples are extremely similar. Additionally the high accuracy score fell between mid 50s and 60s. The highest accuracy score reached about 0.67. However, based on the recall score, which must be between 0-1, the SMOTE oversampling may be the best option as the other models are above 1. 
