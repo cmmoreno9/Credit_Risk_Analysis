@@ -35,7 +35,7 @@ Apply machine learning tecniques to identify high and low credit risk. Need to e
 ![image](https://github.com/cmmoreno9/Credit_Risk_Analysis/blob/3dc7fa3506d0d346aac8c1f11285635d0cfbf63b/screenshots/Screen%20Shot%202022-07-15%20at%207.11.23%20PM.png)
 
 ## Ensemble Classifiers
-
+* Need to finish Ensemble models *
 
 # Summary 
 
